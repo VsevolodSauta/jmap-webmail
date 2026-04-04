@@ -83,6 +83,7 @@ This project uses **next-intl** for internationalization. Please follow these gu
 2. **Translation file locations**:
    - English: `/locales/en/common.json`
    - French: `/locales/fr/common.json`
+   - Other languages follow the same scheme
 
 3. **Namespace organization**:
    - `login.*` - Login page strings
